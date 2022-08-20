@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/drawable/backspace.xml" value="0.213" />
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/drawable/btncircle.xml" value="0.166" />
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/drawable/circle.xml" value="0.213" />
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/drawable/dispaly.xml" value="0.213" />
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/layout/activity_main.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/piyus/AndroidStudioProjects/LetsCalculate/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.213" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
